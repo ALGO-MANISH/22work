@@ -14,4 +14,4 @@ INSERT INTO student_leave (appliedDate, scholarid, name, hostel_name,room_no, le
 VALUES ('2024-07-21', 1913105, 'MANISH KR PODDAR', 'hostel-0','s-213','2024-08-01', '2024-08-05', 5, 'I need to attend a family function in my hometown, which will require me to be away for a few days.');
 SELECT * FROM  student_leave
 
-TRUNCATE TABLE student_leave;
+TRUNCATE TABLE student_leave;   .
